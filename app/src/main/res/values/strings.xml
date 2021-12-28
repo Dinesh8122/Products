@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="products">Products</string>
+    <string name="card">Card</string>
+    <string name="dummy_product_name">Apple</string>
+    <string name="dummy_product_price">200</string>
+    <string name="add_button">Add</string>
+    <string name="no_products">No products</string>
+    <string name="welcome">Welcome</string>
+    <string name="price">Price :</string>
+    <string name="quantity">Quantity :</string>
+
+</resources>
